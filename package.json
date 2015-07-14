@@ -1,6 +1,6 @@
 {
   "name": "piscis-npm-dummy-pkg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dummy package to test npm private package repo with sinopia",
   "main": "index.js",
   "scripts": {
