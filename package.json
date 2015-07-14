@@ -13,6 +13,6 @@
   "author": "Alexander Pirsig",
   "license": "MIT",
   "publishConfig": {
-    "registry": "http://sinopia-5a17ab6c.piscis.svc.tutum.io:4873/"
+    "registry": "http://docker-automatic-build-test-c61a512e.piscis.svc.tutum.io:4873/"
   }
 }
