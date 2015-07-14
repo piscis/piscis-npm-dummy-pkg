@@ -1,0 +1,18 @@
+{
+  "name": "piscis-npm-dummy-pkg",
+  "version": "1.0.0",
+  "description": "Dummy package to test npm private package repo with sinopia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piscis/piscis-npm-dummy-pkg.git"
+  },
+  "author": "Alexander Pirsig",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "http://sinopia-5a17ab6c.piscis.svc.tutum.io:4873/"
+  }
+}
